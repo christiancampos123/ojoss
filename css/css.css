@@ -1,0 +1,29 @@
+html,body{
+    padding: 0;
+    margin: 0;
+}
+#canvas{
+
+    margin-top: 100px;
+    margin-left: 100px;
+}
+
+#ojoIz{
+    position:absolute;
+    top:100px;
+    left:100px;
+    width:100px;
+    height: 100px;
+    background-color: blue;
+    z-index:100;
+}
+
+#ojoDer{
+    position:absolute;
+    top:100px;
+    left:300px;
+    width:100px;
+    height: 100px;
+    background-color: blue;
+    z-index:100;
+}
